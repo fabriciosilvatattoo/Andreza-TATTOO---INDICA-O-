@@ -1,0 +1,11 @@
+{
+  "sessionId": "session_20251012_153000",
+  "startTime": "2025-10-12T15:30:00.000Z",
+  "lastUpdateTime": "2025-10-12T15:55:23.000Z",
+  "summary": "O usuário pediu para adicionar um nó 'Code' ao workflow 'YGO' e estávamos discutindo a melhor posição para inseri-lo.",
+  "messages": [
+    { "role": "user", "text": "liste os workflows com YGO no nome" },
+    { "role": "model", "text": "Encontrei 2 workflows..." },
+    { "role": "user", "text": "adicione um nó de código no primeiro" }
+  ]
+}
